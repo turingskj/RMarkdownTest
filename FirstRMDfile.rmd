@@ -3,7 +3,7 @@ title: "FirstMD_test"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=TRUE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
