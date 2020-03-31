@@ -1,7 +1,7 @@
 ---
 title: "FirstMD_test"
 output: pdf_document
-author: "Kyongje Sung"
+author: "Kyongje Sung -1"
 ---
 
 ```{r setup, include=TRUE}
